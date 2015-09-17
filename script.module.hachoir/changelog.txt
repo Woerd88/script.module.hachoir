@@ -1,0 +1,4 @@
+v1.0.0
+2015-09-16
+hachoir core:   v1.3.4
+hachoir parser: v1.3.5
